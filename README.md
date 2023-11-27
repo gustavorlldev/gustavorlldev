@@ -1,7 +1,7 @@
 <h1 align="center">Ola,sou Gustavo Rodrigues</h1>
-<h3 align="center">Desenvolvedor Front End na EVERIS</h3>
+<h3 align="center">Desenvolvedor Front End</h3>
 
-- 👯 Trabalho na parte de desenvolvimento do Banco BDMG ****
+- 👯  ****
 
 - 📫 Meu e-mail **gustavorlldev@gmail.com**
 
